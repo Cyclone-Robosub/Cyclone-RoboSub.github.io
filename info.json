@@ -1,0 +1,65 @@
+{
+    "email": "crs.aggies@gmail.com",
+    "instagram": "@cyclone_robosub",
+    "discord": "https://discord.gg/Hz2vNVCr7T",
+
+    "about": "Before founding Cyclone RoboSub, there were few opportunities for students with a passion for robotic engineering to learn and apply their skills at UC Davis. We intend to change that. Not only do we plan to help students expand and develop their technical abilities, but we also want to build a community of people enthusiastic about robotics. We operate on the premise that anyone with the motivation to learn is welcome to the team, regardless of experience. We hope this model provides experienced members with the opportunity to lead while also giving new members the opportunity to learn! Cyclone RoboSub was founded alongside the opening of the brand new Engineering Student Design Center (ESDC). A major focus of the new center is to provide student design teams with access to state of the art machines and facilities. By working within the design center, our members gain invaluable experience in design and manufacturing which prepares them for industry",
+    "mission": "Cyclone RoboSub is dedicated to providing engineering and non-engineering students alike with opportunities to learn and enhance their skills by developing autonomous underwater vehicles for the RoboSub competition. Our team is based on principles of community, where we hope to foster new relationships between members and create an accepting environment for all people.",
+    "introVideoURL": "https://www.youtube.com/embed/00KCCFCia6I",
+    "isUnderDevelopment": true,
+    
+    "leadership": {
+            "title": "Leadership",
+            "logo": "",
+            "members": [
+                "Peter Webster",
+                "Jason Pieck",
+                "Emelia Lenz",
+                "Logan Reuter"
+            ]
+    },
+    "teams": {
+        "software": {
+            "title": "Software",
+            "logo": "https://drive.google.com/uc?export=view&id=13f2mM_Ea3YUCi3ZuCIsjy9zYuVXmnNUg",
+            "members": []
+        },
+        "mechanical": {
+            "title": "Mechanical",
+            "logo": "https://drive.google.com/uc?export=view&id=1BghbpVvv_aoFUSU0-aLUw-WZKL-7KiMd",
+            "members": []
+        },
+        "electrical": {
+            "title": "Electrical",
+            "logo": "https://drive.google.com/uc?export=view&id=1sVtxhicXg18K0I2lbWeSWTPpcKKw0lvD",
+            "members": []
+        },
+        "operations": {
+            "title": "Operations",
+            "logo": "https://drive.google.com/uc?export=view&id=1QF5m2VcHJUHNUR_Efrawvw8hwhMn0Oxr",
+            "members": []
+        }
+    },
+    "members":{
+        "Peter Webster": {
+            "position": "Co-Founder",
+            "image": "https://drive.google.com/uc?id=10tGMIWhcaURR5wqLDEeMu0nnarGPGrbJ",
+            "email": ""
+        },
+        "Jason Pieck": {
+            "position": "Co-Founder",
+            "image": "https://drive.google.com/uc?id=1fqIaAh2rJ7_XYkCPvAyixsdes8i7caFh",
+            "email": ""
+        },
+        "Emelia Lenz": {
+            "position": "Treasurer",
+            "image": "https://drive.google.com/uc?id=1JdGkK2CSDqFROCVEHcsOsclAQ6EhHxeF",
+            "email": ""
+        },
+        "Logan Reuter": {
+            "position": "CTO",
+            "image": "https://drive.google.com/uc?id=1vV73KIEd_v-pOpEKfRAl3ZYVJrmvHiIT",
+            "email": "lareuter@ucdavis.edu"
+        }
+    }
+}
