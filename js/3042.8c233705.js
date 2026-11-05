@@ -1,0 +1,8 @@
+"use strict";(self["webpackChunkcyclone_website"]=self["webpackChunkcyclone_website"]||[]).push([[3042],{3042:function(e,a,t){var c=t(53957);
+/**
+ * @license lucide-vue-next v0.475.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const h=(0,c.A)("BellPlusIcon",[["path",{d:"M10.268 21a2 2 0 0 0 3.464 0",key:"vwvbt9"}],["path",{d:"M15 8h6",key:"8ybuxh"}],["path",{d:"M18 5v6",key:"g5ayrv"}],["path",{d:"M20.002 14.464a9 9 0 0 0 .738.863A1 1 0 0 1 20 17H4a1 1 0 0 1-.74-1.673C4.59 13.956 6 12.499 6 8a6 6 0 0 1 8.75-5.332",key:"1abcvy"}]]);t.d(a,["default",0,h])}}]);
+//# sourceMappingURL=3042.8c233705.js.map

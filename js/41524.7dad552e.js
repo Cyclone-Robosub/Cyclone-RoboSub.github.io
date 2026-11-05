@@ -1,0 +1,8 @@
+"use strict";(self["webpackChunkcyclone_website"]=self["webpackChunkcyclone_website"]||[]).push([[41524],{41524:function(e,c,t){var h=t(53957);
+/**
+ * @license lucide-vue-next v0.475.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const s=(0,h.A)("ScaleIcon",[["path",{d:"m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z",key:"7g6ntu"}],["path",{d:"m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z",key:"ijws7r"}],["path",{d:"M7 21h10",key:"1b0cd5"}],["path",{d:"M12 3v18",key:"108xh3"}],["path",{d:"M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2",key:"3gwbw2"}]]);t.d(c,["default",0,s])}}]);
+//# sourceMappingURL=41524.7dad552e.js.map
